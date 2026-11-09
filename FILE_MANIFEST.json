@@ -1,0 +1,36 @@
+{
+  "source_commit": "fe457f6ea98818251f97251c4a1f7a50b862253b",
+  "scope": "byte integrity only",
+  "files": [
+    {
+      "path": "README.md",
+      "size_bytes": 2865,
+      "sha256": "7fd8651c4e2c865b8fbcbfa7cfd8e7ebe77b176d19dc4ba22fbd76a2897cb200"
+    },
+    {
+      "path": "PROVENANCE.md",
+      "size_bytes": 1099,
+      "sha256": "b6e09eaeb5dca38bfc5a43e095dbe538d102f22b97ec43cca1bca4627d507dfb"
+    },
+    {
+      "path": "CITATION.cff",
+      "size_bytes": 503,
+      "sha256": "06e66afc744ca3cd44379fec26df3caea906036cf68ca43604ab5d412bf8fcd5"
+    },
+    {
+      "path": ".gitignore",
+      "size_bytes": 58,
+      "sha256": "25f895a4320ce65a0f9d66d5dcc428aa0982908526a7a8022fe8709d1eed194d"
+    },
+    {
+      "path": "LICENSE_NOTICE.md",
+      "size_bytes": 471,
+      "sha256": "52a07b32a8d57bdfeceb792f4fce25edf2ff17c2298b8328a908448c4fdf8a7e"
+    },
+    {
+      "path": "checks/verify_manifest.py",
+      "size_bytes": 735,
+      "sha256": "599a370886118bc3c6d61a9115052d8f478ef3f34abd9fa727605a4bb1db584a"
+    }
+  ]
+}
